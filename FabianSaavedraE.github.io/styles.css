@@ -11,7 +11,7 @@ a{
     font-size: 30px;
 }
 
-p{
+.TestClass{
     font-family: Verdana;
     color: chocolate;
     width: 70%;
@@ -36,6 +36,10 @@ td{
     padding: 5px;
 }
 
+#textoInput{
+    width: 200px;
+}
+
 button{
     background-color: white;
     color: black;
@@ -45,4 +49,10 @@ button{
 button:hover{
     background-color: goldenrod;
     color: white;
+}
+
+#textoParaReemplazar{
+    border: solid red;
+    text-align: center;
+    font-size: large;
 }
