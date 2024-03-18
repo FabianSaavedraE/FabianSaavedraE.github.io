@@ -4,6 +4,7 @@ html{
 
 #titulo{
     font-family: cursive;
+    text-align: center;
     color: green;
 }
 
@@ -14,8 +15,8 @@ a{
 .TestClass{
     font-family: Verdana;
     color: chocolate;
-    width: 70%;
     text-align: center;
+    margin-top: 20px;
 }
 
 table, th, td{
